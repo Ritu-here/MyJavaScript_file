@@ -1,2 +1,2 @@
 # MyJavaScript_file
-console.log("Hello This is Ritu here ");
+console.log("Hello This is JavaScript file ");
